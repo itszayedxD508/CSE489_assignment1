@@ -2,10 +2,10 @@
            AI USAGE DECLARATION
 ============================================================
 
-Name:
-Student ID:
-Assignment:
-Date:
+Name:ZAYED MASUM
+Student ID:22101461
+Assignment:1
+Date:22/02/2026
 
 ------------------------------------------------------------
 1. AI TOOLS USED (check all that apply)
@@ -14,16 +14,16 @@ Date:
 [ ] ChatGPT
 [ ] GitHub Copilot
 [ ] Google Gemini
-[ ] Claude
+[x] Claude
 [ ] Cursor
 [ ] Other: ________________
 
 ------------------------------------------------------------
 2. PURPOSE OF AI USE (check all that apply)
 ------------------------------------------------------------
-[ ] Learning/understanding concepts
-[ ] Debugging my code
-[ ] Generating code snippets
+[x] Learning/understanding concepts
+[x] Debugging my code
+[x] Generating code snippets
 [ ] Writing text content
 [ ] Design/styling ideas
 [ ] Image generation
@@ -32,9 +32,9 @@ Date:
 ------------------------------------------------------------
 3. DESCRIPTION OF AI USE
 ------------------------------------------------------------
-Briefly describe what you used AI for and how:
+Briefly describe what you used AI for and how: I used claude to understand the concepts of xflutter install and setup xandroid studio and how to use it to create a mobile application. I alsxo used claude to help me debug my coxde and to generate code snippets. 
 
-
+x
 
 
 
@@ -44,8 +44,8 @@ Briefly describe what you used AI for and how:
 ------------------------------------------------------------
 List specific files/sections where AI helped significantly:
 
-File: _________________ Section: _________________
-File: _________________ Section: _________________
+File: ______main.dart___________ Section: ________layout and styling_________
+File: ________main.dart_________ Section: ________debugging errors_________
 File: _________________ Section: _________________
 
 ------------------------------------------------------------
@@ -57,8 +57,8 @@ I declare that:
 - I can explain and modify my work if asked
 - I take full responsibility for my submission
 
-Signature: _______________________
-Date: ___________________________
+Signature: ______zayed_________________
+Date: ______22/02/2026___________________________
 
 ============================================================
 Save as: docs/AI_Declaration.txt
